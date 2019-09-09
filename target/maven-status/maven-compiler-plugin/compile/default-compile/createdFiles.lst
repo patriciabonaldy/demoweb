@@ -1,0 +1,11 @@
+com\example\demo\RolController.class
+com\example\demo\model\Rol.class
+com\example\demo\service\RolServiceImpl.class
+com\example\demo\model\Persona.class
+com\example\demo\repository\RolRepository.class
+com\example\demo\service\IPersonaService.class
+com\example\demo\service\RolService.class
+com\example\demo\DemowebApplication.class
+com\example\demo\repository\PersonaRepository.class
+com\example\demo\service\IPersonaServiceImpl.class
+com\example\demo\PersonaController.class
